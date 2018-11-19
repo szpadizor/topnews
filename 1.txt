@@ -1,0 +1,401 @@
+<!DOCTYPE HTML>
+<html lang="uk-ua" dir="ltr">
+
+<head>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	
+	
+	
+<meta charset="utf-8" />
+  <base href="http://t.topnews.in.ua/society/9607-ternopil-entrants-qspoiledq.html" />
+  <meta name="keywords" content="Тернопіль, Тернопільщина, грант, студент, абітурієнт, ВИШ, ВНЗ, topnews" />
+  <meta name="author" content="Адміністратор" />
+  <meta name="description" content="У Тернопільських абітурієнтів і студентів з'явився шанс один рік навчатися безкоштовно в українському ВНЗ." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Тернопільським абітурієнтам &quot;підфартило&quot;  </title>
+  <link href="/templates/yoo_revista/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_jcomments/tpl/default/style.css?v=21" type="text/css" />
+  <link rel="stylesheet" href="http://t.topnews.in.ua/plugins/content/extranews/css/extranews.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?380a314203b6e1c4df5166f3a813030a" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?d87dffc9fb8dea99ab4b1f595c76714f" type="text/css" />
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+  <script type="text/javascript" src="/media/k2/assets/js/k2.noconflict.js"></script>
+  <script type="text/javascript" src="/components/com_k2/js/k2.js"></script>
+  <script type="text/javascript" src="/components/com_jcomments/js/jcomments-v2.3.js?v=8"></script>
+  <script type="text/javascript" src="/components/com_jcomments/libraries/joomlatune/ajax.js?v=4"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/js/jcemediabox.js?d95577726527bb372fd7fcb454409743"></script>
+  <script type="text/javascript" src="/plugins/content/avreloaded/silverlight.js"></script>
+  <script type="text/javascript" src="/plugins/content/avreloaded/wmvplayer.js"></script>
+  <script type="text/javascript" src="/plugins/content/avreloaded/swfobject.js"></script>
+  <script type="text/javascript" src="/plugins/content/avreloaded/avreloaded.js"></script>
+  <script type="text/javascript" src="/templates/yoo_revista/warp/libraries/jquery/jquery.js"></script>
+  <script type="text/javascript">
+window.addEvent("domready", function() {
+	SqueezeBox.initialize({});
+	$$("a.modal").each(function(el) {
+		el.addEvent("click", function(e) {
+			new Event(e).stop();
+			SqueezeBox.fromElement(el);
+		});
+	});
+});
+var K2SitePath = '/';
+window.addEvent("domready", function() {
+	var JTooltips = new Tips($$(".hasTip"), { maxTitleChars: 50, fixed: false});
+});
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:1,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0,pdfjs:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+  </script>
+  <link href="/component/obrss/-.html" rel="alternate" type="application/rss+xml" title="TopNews" />
+
+<link rel="apple-touch-icon-precomposed" href="/templates/yoo_revista/apple_touch_icon.png" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/base.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/layout.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/menus.css" />
+<style>body { min-width: 1210px; }
+.wrapper { width: 1210px; }
+#sidebar-b { width: 300px; }
+#maininner { width: 910px; }
+#menu .dropdown { width: 250px; }
+#menu .columns2 { width: 500px; }
+#menu .columns3 { width: 750px; }
+#menu .columns4 { width: 1000px; }</style>
+<link rel="stylesheet" href="/templates/yoo_revista/css/modules.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/tools.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/system.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/extensions.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/custom.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/corners.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/background/worldmap_beige.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/font1/nobile.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/font2/marvel.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/font3/marvel.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/styles/red/css/style.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/css/print.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/fonts/nobile.css" />
+<link rel="stylesheet" href="/templates/yoo_revista/fonts/marvel.css" />
+<script src="/templates/yoo_revista/warp/js/warp.js"></script>
+<script src="/templates/yoo_revista/warp/js/accordionmenu.js"></script>
+<script src="/templates/yoo_revista/warp/js/dropdownmenu.js"></script>
+<script src="/templates/yoo_revista/js/template.js"></script>
+
+
+	<style>
+  @media (min-width: 500px) and (max-width: 800px) {
+
+   #ho {display: none;}
+
+
+
+  }
+</style>
+
+
+</head>
+
+<body id="page" class="page sidebar-a-right sidebar-b-right isblog  wrapper-default" data-config='{"twitter":0,"plusone":0,"facebook":0}'>
+
+	<div id="page-bg">
+
+		<div>
+
+			
+			<div class="wrapper grid-block">
+
+				<header id="header">
+
+					<div id="headerbar" class="grid-block">
+
+												<a id="logo" href="http://t.topnews.in.ua"><p><img src="/images/stories/logo.png" border="0" alt="" /></p></a>
+						
+						
+					</div>
+
+					<section id="menublock" class="grid-block">
+
+
+						<!--------Topmenu---------------------------------------->
+						<div id="toolbar" class="grid-block">
+
+														<div class="float-left"><div class="module   deepest">
+
+			<ul class="menu menu-line"><li class="level1 item28"><a href="/politics.html" class="level1"><span>Політика</span></a></li><li class="level1 item30 active current"><a href="/society.html" class="level1 active current"><span>Суспільство</span></a></li><li class="level1 item29"><a href="/economy.html" class="level1"><span>Економіка</span></a></li><li class="level1 item83"><a href="/personalities.html" class="level1"><span>Особистості</span></a></li><li class="level1 item84"><a href="/diaspora.html" class="level1"><span>Діаспора</span></a></li><li class="level1 item80"><a href="/leisure.html" class="level1"><span>Культура</span></a></li><li class="level1 item86"><a href="/spirituality.html" class="level1"><span>Духовність</span></a></li><li class="level1 item88"><a href="/blogs.html" class="level1"><span>Думки</span></a></li><li class="level1 item89"><a href="/comics.html" class="level1"><span>Кримінал</span></a></li><li class="level1 item90"><a href="/top.html" class="level1"><span>ТОП</span></a></li><li class="level1 item91"><a href="/video.html" class="level1"><span>Відео</span></a></li><li class="level1 item94"><a href="/travel.html" class="level1"><span>Подорожі</span></a></li><li class="level1 item97"><a href="/2016-05-07-08-56-13.html" class="level1"><span>Фото Конкурс</span></a></li><li class="level1 item98"><a href="/society1.html" class="level1"><span>Суспільствою</span></a></li></ul>		
+</div></div>
+							
+							
+						</div>
+                       <!-------------------------Topmenu-END-->
+
+
+						<!-----------------------mainmenu-- друге меню-->
+						<div id="menubar" class="grid-block">
+
+							
+							<nav id="menu"><ul class="menu menu-dropdown"><li class="level1 item1"><a href="http://t.topnews.in.ua/" class="level1"><span>Головна</span></a></li><li class="level1 item2"><a href="/ternopil.html" class="level1"><span>Тернопіль</span></a></li><li class="level1 item60"><a href="/ukraine.html" class="level1"><span>Україна</span></a></li><li class="level1 item82"><a href="/world.html" class="level1"><span>Світ</span></a></li></ul></nav>
+							
+														<div id="search">
+<form id="searchbox" action="/society.html" method="post" role="search">
+	<input type="text" value="" name="searchword" placeholder="Пошук..." />
+	<button type="reset" value="Reset"></button>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="30" />
+</form>
+
+<script src="/templates/yoo_revista/warp/js/search.js"></script>
+<script>
+jQuery(function($) {
+	$('#searchbox input[name=searchword]').search({'url': '/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found'}).placeholder();
+});
+</script></div>
+							
+						</div>
+                   <!-------------------------------mainmenu-END----------------------->
+
+
+
+
+												<div id="subbar" class="grid-block">
+
+							
+															<div class="breadcrumbs"><a href="http://t.topnews.in.ua/">Головна</a><a href="/society.html">Суспільство</a><strong>Тернопільським абітурієнтам &quot;підфартило&quot;  </strong></div>							
+						</div>
+						
+					</section>
+
+					
+				</header>
+		<h2><div id="yt-rt"><a href="http://web-creator.org" target="_blank" title="русификатор Joomla 2.5">русификатор Joomla 2.5</a><br><a href="http://joomla-master.org/faielovie-menedjeri.html" target="_blank" title="файловые менеджеры Joomla">файловые менеджеры Joomla</a></div></h2>
+				<!-----велийкий слайдер-->
+
+				
+				<!-----/велийкий слайдер-->
+
+
+				<!-----слайдер номер 2-->
+
+				
+				<!-----/слайдер номер 2-->
+
+
+
+				
+
+
+				<div id="main" class="grid-block">
+                      <!--розмір--------позиція  grid-box{float:left}--http://topnews.in.ua/cache/widgetkit/widgetkit-6f9282e9.css-->
+					<div id="maininner"  class="grid-box" >
+
+
+						<!-----новини відображати на моб-->
+
+						
+						<!-----новини відображати на моб-->
+
+
+												<section id="content" class="grid-block">
+
+<div id="system">
+	
+	
+	<article class="item" data-permalink="http://t.topnews.in.ua/society/9607-ternopil-entrants-qspoiledq.html">
+
+				<header>
+
+										
+							
+							
+			<div style="position:absolute; bottom:0px; left:-4950px;"> Игровые <a href="http://worldtemplates.net">шаблоны DLE</a><br /> Самая быстрая <a title="быстрые диеты" href="http://www.all-diet.info/">Диета</a> </div><h1 class="title">Тернопільським абітурієнтам &quot;підфартило&quot;  </h1>
+
+						<p class="meta">
+		
+				 on <time datetime="2018-11-15" pubdate>15 листопада 2018</time>. 	
+			
+			</p>
+				
+		</header>
+			
+				
+		<div class="content clearfix"><p><img src="/images/0.07/-0976.jpg" border="0" alt="" /></p>
+<p><strong>У Тернопільських абітурієнтів і студентів з'явився шанс один рік навчатися безкоштовно в українському ВНЗ.</strong></p>
+
+
+
+<p> </p>
+<p>Абітурієнтів та студентів Тернополя запрошують взяти участь у соціальній програмі Scholarship. </p>
+<p>Про це повідомляє <a href="https://poglyad.te.ua/podii/shans-dlya-abituriyentiv-ta-studentiv-ternopolya-golovnyj-pryz-bezkoshtovnyj-rik-navchannya-v-ukrayinskomu-vnz.html">Погляд</a>.</p>
+<p>Головний приз – грант (стипендія) у розмірі 35.300 грн. на сплату року навчання в українському ВНЗ. Ця сума розподіляється між учасниками, які написали найкращі роботи.</p>
+<p>Участь повністю безкоштовна.</p>
+<p>Оплачують навчання в усіх закладах, як приватних, так і державних.</p>
+<p>Детальніше про умови конкурсу дивіться тут: <a href="https://seoquick.com.ua/scholarship-ua/">https://seoquick.com.ua/scholarship-ua/</a></p>
+<p>Запитання та роботи можно надсилати через сайт або на пошту: 
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy99985 = 'sch&#111;l&#97;rsh&#105;p' + '&#64;';
+ addy99985 = addy99985 + 's&#101;&#111;q&#117;&#105;ck' + '&#46;' + 'c&#111;m' + '&#46;' + '&#117;&#97;';
+ document.write( '<a ' + path + '\'' + prefix + addy99985 + suffix + '\'' + attribs + '>' );
+ document.write( addy99985 );
+ document.write( '<\/a>' );
+ //-->
+ </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Ця електронна адреса захищена від спам-ботів, Вам потрібно включити JavaScript для перегляду
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></p><div class="extranews_separator"></div><div class="extranews_box"><h2><strong>Related news items:</strong></h2><div class="extranews_related"><ul class="related"><li><span class="editlinktip hasTip" title="Нa що у Тернополі витрaтять 300 000 гривень?::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_2018%2016%2011.02.png&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;Тернополяни підтримaли проект “Громaдського бюджету” стосовно облaштувaння туaлету у пaрку Топільче. Зaдум мaють нaмір втілити у життя вже у 2019 році &amp;hellip;&lt;/p&gt;" ><a href="/society/9613--what-in-ternopil-vytratsya-300-000-hryvnia.html">Нa що у Тернополі витрaтять 300 000 гривень? - <span class=\"extranews_date\">П\'ятниця, 16 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title="В Тернополі стaне нa одного бикa менше::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_20181611.01.png&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;Як розповів нaчaльник упрaвління ЖКГ Олег Соколовський, нa бульвaрі Тaрaсa Шевченкa - у центрaльній чaстині містa є декорaтивні конструкції, влaсникa  &amp;hellip;&lt;/p&gt;" ><a href="/society/9612--in-ternopil-there-will-be-no-less-than-one-bic.html">В Тернополі стaне нa одного бикa менше - <span class=\"extranews_date\">П\'ятниця, 16 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title="То кому дістaнеться Почaївськa лaврa?::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_-045.jpg&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;Прокурaтурa Тернопільської облaсті контролює хід розслідувaння щодо мaйнa Почaївської лaври.&lt;/p&gt;" ><a href="/spirituality/9611-so-who-will-get-the-pochaev-lavra.html">То кому дістaнеться Почaївськa лaврa? - <span class=\"extranews_date\">П\'ятниця, 16 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title="Нa вулицях Тернополя &amp;quot;ходять&amp;quot; наркотики?::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_234567890-.jpg&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;Тернопільські оперaтивники вилучили aмфетaміну нa понaд сто тисяч гривень.&lt;/p&gt;" ><a href="/comics/9610-on-the-streets-of-ternopil-qgoq-drugs.html">Нa вулицях Тернополя &quot;ходять&quot; наркотики? - <span class=\"extranews_date\">П\'ятниця, 16 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title="Новий футбольний мaйдaнчик з’явився нa Тернопільщині::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_-03.jpg&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;У Коцюбинцях відкрили новий футбольний мaйдaнчик зі штучним покриттям.&lt;/p&gt;" ><a href="/society/9609-a-new-football-ground-appeared-in-ternopil-region.html">Новий футбольний мaйдaнчик з’явився нa Тернопільщині - <span class=\"extranews_date\">П\'ятниця, 16 листопада 2018</span></a></span></li></ul></div></div><div class="extranews_box"><h2><strong>Newer news items:</strong></h2><div class="extranews_newer"><ul class="newer"><li><span class="editlinktip hasTip" title="Нa що у Тернополі витрaтять 300 000 гривень?::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_2018%2016%2011.02.png&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;Тернополяни підтримaли проект “Громaдського бюджету” стосовно облaштувaння туaлету у пaрку Топільче. Зaдум мaють нaмір втілити у життя вже у 2019 році &amp;hellip;&lt;/p&gt;" ><a href="/society/9613--what-in-ternopil-vytratsya-300-000-hryvnia.html">Нa що у Тернополі витрaтять 300 000 гривень? - <span class=\"extranews_date\">П\'ятниця, 16 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title="В Тернополі стaне нa одного бикa менше::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_20181611.01.png&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;Як розповів нaчaльник упрaвління ЖКГ Олег Соколовський, нa бульвaрі Тaрaсa Шевченкa - у центрaльній чaстині містa є декорaтивні конструкції, влaсникa  &amp;hellip;&lt;/p&gt;" ><a href="/society/9612--in-ternopil-there-will-be-no-less-than-one-bic.html">В Тернополі стaне нa одного бикa менше - <span class=\"extranews_date\">П\'ятниця, 16 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title="Новий футбольний мaйдaнчик з’явився нa Тернопільщині::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_-03.jpg&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;У Коцюбинцях відкрили новий футбольний мaйдaнчик зі штучним покриттям.&lt;/p&gt;" ><a href="/society/9609-a-new-football-ground-appeared-in-ternopil-region.html">Новий футбольний мaйдaнчик з’явився нa Тернопільщині - <span class=\"extranews_date\">П\'ятниця, 16 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title=" Тернопільщина: на території іудейського цвинтаря виникла пожежа::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_20150518-24.jpg&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;Пожежа виникла 15 листопада близько першої дня у Бучачі.&lt;/p&gt;" ><a href="/society/9608-ternopil-region-a-fire-occurred-on-the-territory-of-the-jewish-cemetery.html"> Тернопільщина: на території іудейського цвинтаря виникла пожежа - <span class=\"extranews_date\">П\'ятниця, 16 листопада 2018</span></a></span></li></ul></div></div><div class="extranews_box"><h2><strong>Older news items:</strong></h2><div class="extranews_older"><ul class="older"><li><span class="editlinktip hasTip" title="Нa Тернопільщині дитинa полaсувaлa отрутою::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_-04.jpg&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;Дитинa з Тернопільщини випaдково з’їлa щурячу отруту.&lt;/p&gt;" ><a href="/society/9593-in-ternopil-oblast-the-child-was-sick-with-poison.html">Нa Тернопільщині дитинa полaсувaлa отрутою - <span class=\"extranews_date\">Четвер, 15 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title="Мaгістр Віденської вищої педaгогічної школи Хольгер Вінкельмaйєр  зaвітaв до Тернопільського ВИШу::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_-3333333.jpg&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;У ТНЕУ відбулася зустріч з іноземним студентом Віденської вищої школи Хольгером Вінкельмaйєром.&lt;/p&gt;" ><a href="/society/9591-master-of-vienna-school-of-higher-education-holger-finkelmayer-visited-ternopil-vyshiv.html">Мaгістр Віденської вищої педaгогічної школи Хольгер Вінкельмaйєр  зaвітaв до Тернопільського ВИШу - <span class=\"extranews_date\">Четвер, 15 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title="Тернопільщинa зустрілa Повновaжного Послa Японії -пaнa Шігекі Сумі::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_%20%202018-11-14%20%2003.06.55.png&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;У співпрaці з Тернопільською оргaнізaцією Товaриствa Червоного Хрестa Укрaїни упродовж квітня –липня 2017 року зa кошти уряду Японії зaкуплено облaднa &amp;hellip;&lt;/p&gt;" ><a href="/society/9585--ternopil-region-met-with-the-full-fledged-ambassador-of-japan-pan-shigeki-sumy.html">Тернопільщинa зустрілa Повновaжного Послa Японії -пaнa Шігекі Сумі - <span class=\"extranews_date\">Середа, 14 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title=" Як Тернопіль готується до новорічних свят?::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_%20%202018-11-13%20%2022.48.21.png&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;Нa Теaтрaльному мaйдaні вже встaновлюються кіоски, які з’являються кожного року під чaс новорічних свят.&lt;/p&gt;" ><a href="/society/9583-how-is-ternopil-preparing-for-new-years-holidays.html"> Як Тернопіль готується до новорічних свят? - <span class=\"extranews_date\">Середа, 14 листопада 2018</span></a></span></li><li><span class="editlinktip hasTip" title="Особлива молодь візьме учaсть у покaзі мод у Тернополі::&lt;img src=&quot;/images/plg_imagesized/thumb_90_68_%20%202018-11-13%20%2021.39.29.png&quot; alt=&quot;&quot; class=&quot;iextranews ileft&quot; /&gt;&lt;p class=&quot;extranews_justify&quot;&gt;Інклюзивний покaз мод - Inclusive Fashion Day проведуть у Тернополі 22 листопaдa у концерт-холі “Подоляни”, почaток о 16.00.  Вхід вільний.  &lt;/p&gt;" ><a href="/society/9582-the-youth-with-integrity-will-take-on-board-the-mood-in-ternopil.html">Особлива молодь візьме учaсть у покaзі мод у Тернополі - <span class=\"extranews_date\">Середа, 14 листопада 2018</span></a></span></li></ul></div></div></div>
+
+
+				
+		<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js" charset="utf-8"></script>
+<div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,gplus,twitter,blogger,viber"></div>
+
+<script type="text/javascript">
+<!--
+var jcomments=new JComments(9607, 'com_content','/index.php?option=com_jcomments&amp;tmpl=component');
+jcomments.setList('comments-list');
+//-->
+</script>
+<div id="jc">
+<div id="comments"></div>
+<h4>Додати коментар</h4>
+<a id="addcomments" href="#addcomments"></a>
+<form id="comments-form" name="comments-form" action="javascript:void(null);">
+<p>
+	<span>
+		<input id="comments-form-name" type="text" name="name" value="" maxlength="20" size="22" tabindex="1" />
+		<label for="comments-form-name">Ім`я (обов`язково)</label>
+	</span>
+</p>
+<p>
+	<span>
+		<textarea id="comments-form-comment" name="comment" cols="65" rows="8" tabindex="5"></textarea>
+	</span>
+</p>
+<div id="comments-form-buttons">
+	<div class="btn" id="comments-form-send"><div><a href="#" tabindex="7" onclick="jcomments.saveComment();return false;" title="Send (Ctrl+Enter)">Опублікувати</a></div></div>
+	<div class="btn" id="comments-form-cancel" style="display:none;"><div><a href="#" tabindex="8" onclick="return false;" title="Cancel">Cancel</a></div></div>
+	<div style="clear:both;"></div>
+</div>
+<div>
+	<input type="hidden" name="object_id" value="9607" />
+	<input type="hidden" name="object_group" value="com_content" />
+</div>
+</form>
+<script type="text/javascript">
+<!--
+function JCommentsInitializeForm()
+{
+	var jcEditor = new JCommentsEditor('comments-form-comment', true);
+	jcomments.setForm(new JCommentsForm('comments-form', jcEditor));
+}
+
+if (window.addEventListener) {window.addEventListener('load',JCommentsInitializeForm,false);}
+else if (document.addEventListener){document.addEventListener('load',JCommentsInitializeForm,false);}
+else if (window.attachEvent){window.attachEvent('onload',JCommentsInitializeForm);}
+else {if (typeof window.onload=='function'){var oldload=window.onload;window.onload=function(){oldload();JCommentsInitializeForm();}} else window.onload=JCommentsInitializeForm;} 
+//-->
+</script>
+<div id="comments-footer" align="center">www.topnews.in.ua</div>
+</div><div style="position:absolute; bottom:0px; left:-4950px;"> <a target="_blank" href="http://joomluck.com" title="Шаблоны joomla 2.5">Шаблоны joomla 2.5</a><br /> <a href="http://www.templete.ru/">Шаблоны joomla</a></div>
+	</article>
+
+</div>
+<div style="position:absolute; bottom:0px; left:-4241px;">Новые <a href="http://gamepaket.net/" target="_blank" >игры Alawar</a>.</div></section>
+						
+						
+					</div>
+					<!-- maininner end -->
+<!-----модулі заповнення головної-->
+					
+
+
+										<aside id="sidebar-b" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+		<h3 class="module-title"><span class="color">Сьогодні</span> з вами на сайті </h3>	<p><strong> <img src="/images/0.07/2018101903.1.jpg" border="0" alt="" />Ірина КОВАЛЬЧИК.</strong></p>
+<p>Якщо у Вас є питання, на котрі шукаєте відповіді, цікаві теми, важливі новини </p>
+<p>- надсилайте нам на скриньку <strong>topnews700@gmail.com </strong></p>
+<p><strong>Для нас ДУЖЕ ВАЖЛИВОЮ Є ВАША ДУМКА!!!</strong></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+		<h3 class="module-title"><span class="color">Ми</span> в facebook</h3>	
+<!-- /mod_php version 1.0.0.Alpha1-J1.5 (c) www.fijiwebdesign.com -->
+ <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/uk_UA/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-page" data-href="https://www.facebook.com/TopNews.in.ua" data-width="210" data-height="275" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/TopNews.in.ua"><a href="https://www.facebook.com/TopNews.in.ua">TopNews</a></blockquote></div></div>
+
+<!-- mod_php version 1.0.0.Alpha1-J1.5/ -->
+		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+		<h3 class="module-title"><span class="color">Популярні</span> статті</h3>	
+<ul class="line line-icon">
+	<li><a href="/society/3906-ternopil-could-void-the-coaches-work-set-up-your-own-project-preparation-for-testing.html"> Тернополяни можуть позбавити репетиторів роботи: створили власний проект підготовки до ЗНО </a></li>
+	<li><a href="/society/4112-scientists-warn-the-earth-is-approaching-the-most-powerful-magnetic-storm.html">Учені застерігають: на Землю насувається  наймогутніша магнітна буря</a></li>
+	<li><a href="/society/2259-at-the-ternopil-quietly-dying-unique-church-photo.html">На Тернопільщині тихо вмирає неповторний костел (фото)</a></li>
+	<li><a href="/society/470-the-director-buchatsky-cheese-plant-for-the-funeral-kids-did-not-get.html">До директора Бучацького сирзаводу на похорон діти не приїхали</a></li>
+	<li><a href="/society/3584-residents-shocked-ternopil-doctors-of-q-i-am-ashamed-of-his-body-q--video.html"> Мешканці Тернопільщини шокували медиків проекту &quot;Я соромлюсь свого тіла&quot; (відео)</a></li>
+</ul>		
+</div></div></aside>
+					
+<!-----модулі заповнення головної-->
+				</div>
+								<!-- main end -->
+
+				
+				
+				
+								<footer id="footer" class="grid-block">
+
+										<a id="totop-scroller" href="#page"></a>
+					
+					<div class="module   deepest">
+
+			<ul class="menu menu-line"><li class="level1 item28"><a href="/politics.html" class="level1"><span>Політика</span></a></li><li class="level1 item30 active current"><a href="/society.html" class="level1 active current"><span>Суспільство</span></a></li><li class="level1 item29"><a href="/economy.html" class="level1"><span>Економіка</span></a></li><li class="level1 item83"><a href="/personalities.html" class="level1"><span>Особистості</span></a></li><li class="level1 item84"><a href="/diaspora.html" class="level1"><span>Діаспора</span></a></li><li class="level1 item80"><a href="/leisure.html" class="level1"><span>Культура</span></a></li><li class="level1 item86"><a href="/spirituality.html" class="level1"><span>Духовність</span></a></li><li class="level1 item88"><a href="/blogs.html" class="level1"><span>Думки</span></a></li><li class="level1 item89"><a href="/comics.html" class="level1"><span>Кримінал</span></a></li><li class="level1 item90"><a href="/top.html" class="level1"><span>ТОП</span></a></li><li class="level1 item91"><a href="/video.html" class="level1"><span>Відео</span></a></li><li class="level1 item94"><a href="/travel.html" class="level1"><span>Подорожі</span></a></li><li class="level1 item97"><a href="/2016-05-07-08-56-13.html" class="level1"><span>Фото Конкурс</span></a></li><li class="level1 item98"><a href="/society1.html" class="level1"><span>Суспільствою</span></a></li></ul>		
+</div>
+<div class="module   deepest">
+
+			<p><strong>Висловлені авторами думки можуть не збігатися з позицією редакції сайту. Відповідальність за достовірність фактів несе автор публікації. </strong><br /><a href="#" target="_self"><span style="color: #373e4d; font-family: helvetica, arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 15.3599996566772px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: #f6f7f8;">topnews700@gmail.com</span></a></p>		
+</div>Powered by <a href="#">WEBSTUDIA.NET.UA</a>
+				</footer>
+				
+			</div>
+
+		</div>
+
+	</div>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69709037-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-69709037-1');
+</script>
+
+</body>
+</html>
